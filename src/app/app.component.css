@@ -1,0 +1,30 @@
+.Parent
+{
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid black;
+  width: 15%;
+}
+
+.Child-1{
+
+  border: 2px solid red;
+}
+
+.Child-2{
+  border: 2px solid green;
+}
+
+
+.edit-box {
+  padding: 10px;
+  margin: 0;
+  background-color: #f1e9e9;
+  box-sizing: border-box;
+  border: 2px solid grey;
+  color: #01ff2b;
+  height: 25px;
+  width: 50px;
+  border-radius: 5px;
+  overflow: auto;
+}
